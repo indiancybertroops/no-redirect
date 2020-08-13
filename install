@@ -1,5 +1,5 @@
 apt install toilet -y
-toilet -f mono12 -F border:gay 'RUCH'
+toilet -f mono12 -F border:gay 'ICT'
 echo -e "\e[1;33mInstalling No-Redirect Exploit ...\e[0m"
 sleep 6
 toilet -f mono12 -F border:metal 'ICT'
