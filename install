@@ -15,4 +15,6 @@ echo -e "\e[1;33mopen this url in browser: localhost:8080/ict.php\e[0m"
 echo -e "\e[1;31mCopy link from above you have 5sec only\e[0m"
 sleep 10
 echo -e "\e[1;31mRefresh Browser it any error present\e[0m"
-php -S localhost:8080
+cd
+cd no-redirect
+php -S 127.0.0.1:8080/ict.php
