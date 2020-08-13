@@ -1,8 +1,9 @@
 
-# Shakti
-Multi thread And Single thread google dorker written in bash
+# No-Redirect Exploit
+no redirect script Using Php server and Script 
+bypass Admin panel without password
 
-![](header1.png)
+![](Screenshot_20200813-161614.png)
 
 
 
@@ -20,122 +21,31 @@ Multi thread And Single thread google dorker written in bash
 #
 Features:
 
->Easy to install ICT-Setup.sh
+>Easy to install 
 
 
 >Easy to use
-
->best for beginner 
-
->you can easily search queries 
-
->fastest Dorking
-
->work anywhere 
-
->single thread dorker
-
->multi thread dorker
-
->Automatically Install using one command 🤠
-
+> Bypass Admin Panel Without Password
 
 # Installation :
-> For linux and Termux there are different Options in Dorker kindly choose correct option
-## Command to run on Termux 
-
+> clone via git clone
 
 ```
-git clone https://github.com/indiancybertroops/Shakti/
+git clone https://github.com/indiancybertroops/no-redirect
 ```
 ```
-cd ShaktiV2
+cd no-redirect
 ```
 ```
 chmod +x *
 ```
 ```
-mv edit-dork /data/data/com.termux/files/usr/bin
-```
-```
-sh ICT-Setup.sh
+./install
 ```
 
+# Youtube Tutorial 
 
-
-## On linux :
-
-```
-git clone https://github.com/indiancybertroops/Shakti/
-```
-
-```
-cd ShaktiV2
-```
-
-```
-chmod +x *
-```
-```
-mv edit-dork /usr/bin
-```
-```
-sh ICT-Setup.sh
-```
-
-
-## Save your dork txt file as dorks.txt
-
-
-## sample Dork:
-> dorks already given in dork.txt file
- 
-
-```
-inurl:add.php?id= site:cn
-```
-
-```
-inurl:product.php?id= site:pk
-```
- 
-```
-inurl:cat?id= site:uk
-```
-
-
-### Any problem? 
->Try this 
-```
-apt-get update
-```
->upgrade pip first before this
-
-```
-apt-get upgrade -y
-```
-
-> For Automatically installation of module try this command
-```
-chmod +x *
-```
->Automatical Installation 
-
-```
-cd ShaktiV2
-```
-```
-sh ICT-Setup.sh
-```
-# V2.0 Update :
-Now You Can Edit Dorks easily 
-use this command :
-
-
-```
-edit-dork
-```
->Insert Your Dorks and enjoy 
+https://youtu.be/TfjTpnHdClE
 
 
 ## Contact Us: 
