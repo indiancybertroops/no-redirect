@@ -1,1 +1,18 @@
-.
+apt install toilet -y
+toilet -f mono12 -F border:gay 'RUCH'
+echo -e "\e[1;33mInstalling No-Redirect Exploit ...\e[0m"
+sleep 6
+toilet -f mono12 -F border:metal 'ICT'
+echo -e "\e[1;33mUpdating Termux this is based upon your Internet speed .... \e[0m"
+sleep 6
+apt update && apt upgrade
+echo -e "\e[1;33mUpdated successfully...\e[0m"
+echo -e "\e[1;31mInstalling Php\e[0m"
+sleep 5
+apt install php
+cd
+echo -e "\e[1;33mopen this url in browser: localhost:8080/ict.php\e[0m"
+echo -e "\e[1;31mCopy link from above you have 5sec only\e[0m"
+sleep 10
+echo -e "\e[1;31mRefresh Browser it any error present\e[0m"
+php -S localhost:8080
