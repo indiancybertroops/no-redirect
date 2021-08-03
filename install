@@ -17,4 +17,4 @@ sleep 10
 echo -e "\e[1;31mRefresh Browser it any error present\e[0m"
 cd
 cd no-redirect
-php -S 127.0.0.1:8080/ict.php
+php -S 127.0.0.1:8080
